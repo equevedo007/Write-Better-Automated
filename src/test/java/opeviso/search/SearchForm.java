@@ -1,4 +1,4 @@
-package starter.search;
+package opeviso.search;
 
 import net.serenitybdd.screenplay.targets.Target;
 
