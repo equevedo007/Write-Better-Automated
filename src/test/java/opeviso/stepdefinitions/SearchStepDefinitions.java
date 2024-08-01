@@ -6,7 +6,7 @@ import io.cucumber.java.en.When;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.ensure.Ensure;
 import net.serenitybdd.screenplay.questions.page.TheWebPage;
-import opeviso.navigation.NavigateTo;
+import opeviso.ui.navigation.NavigateTo;
 import opeviso.search.LookForInformation;
 
 public class SearchStepDefinitions {
